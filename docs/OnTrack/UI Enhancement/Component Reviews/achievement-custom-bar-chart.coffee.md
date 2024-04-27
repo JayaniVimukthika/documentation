@@ -6,7 +6,6 @@
 
 
 ## Component Name
-
 Path: ./src/app/visualisations/achievement-custom-bar-chart.coffee
 
 File Name: achievement-custom-bar-chart.coffee
@@ -33,13 +32,11 @@ So, in the proposed visualization modal, the user provides the following changes
 3. The seperate bars could be displayed for pass tasj range,credit task range, distinction task range and High distiction task range.
 
 New design sketch: Existing UI components are to be used for the input fields and button etc.
-``
-![new modal sketch](Resources/achievement-custom-bar-chart.coffee_current_2.png)
 
-New design sketch: proposed different design, existing UI components are to be used for the input fields and button etc. 
+New design sketch: proposed different design, existing UI components are to be used for the input fields and button etc.
 
+![new modal sketch](Resources/achievement-custom-bar-chart_design1.jpeg)
 ![new modal sketch](Resources/achievement-custom-bar-chart_design2.jpeg)
-![new modal sketch](Resources/achievement-custom-bar-chart_design3.jpeg)
 
 **Component migration Check list** – What is needs to be checked for this component to work once
 migrated?
@@ -50,4 +47,4 @@ migrated?
 
 [ ] high user friendliness
 
-[ ] Check with the output data, the rating value should be through the graph accordingly - student task submission 
+[ ] Check with the output data, the rating value should be through the graph accordingly - student task submission
