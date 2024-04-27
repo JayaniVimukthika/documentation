@@ -21,7 +21,6 @@ It gives a visualization of achievements of each and every learning outcome of t
 current model:
 ![new modal sketch](Resources/achievement-custom-bar-chart.coffee_current.png)
 
-
 It works through  the learning outcomes from the tasks which are submitted by students.
 
 This visualization has proper mechanism, but some of the changes can be proposed to enhance this.
