@@ -35,7 +35,10 @@ New design sketch: Existing UI components are to be used for the input fields an
 
 New design sketch: proposed different design, existing UI components are to be used for the input fields and button etc.
 
+Design one:
 ![new modal sketch](Resources/achievement-custom-bar-chart_design1.jpeg)
+
+Design two:
 ![new modal sketch](Resources/achievement-custom-bar-chart_design2.jpeg)
 
 **Component migration Check list** – What is needs to be checked for this component to work once
