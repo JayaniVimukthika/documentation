@@ -18,6 +18,7 @@ It is used to visualize the achievements of particular learnig outcomes accordin
 
 It gives a visualization of achievements of each and every learning outcome of tasks from student account and it displays the propotion of achievement of the particular learning outcome for each category of tasks.
 
+current model:
 ![new modal sketch](Resources/achievement-custom-bar-chart.coffee_current.png)
 
 
